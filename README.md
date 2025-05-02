@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudhaThiruvengadam
-- 👀 I’m an aspiring Full stack developer
+- 👀 I’m an aspiring Java Backend developer
 - 🌱 currently working at Accenture as senior software developer
 - 📫  reach me at  https://www.linkedin.com/in/sudha-thiruvengadam-4b3641120/
 - Azure certified developer 
